@@ -11,7 +11,7 @@
                         <label for="data_nascimento" class="mb-1 mt-3">Data de Nascimento</label>
                         <input type="date" class="form-control mb-4" id="data_nascimento" name="data_nascimento" required>
                     </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <button type="submit" class="btn btn-primary">Descubra</button>
                 </form>
             </div>
         </div>
