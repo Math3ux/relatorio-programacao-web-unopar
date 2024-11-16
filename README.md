@@ -20,35 +20,15 @@ Este projeto é uma aplicação web simples em PHP que permite ao usuário desco
 
 ## Estrutura do Projeto
 
--
+-index.php: Página inicial com o formulário para entrada da data de nascimento.
 
-index.php
+-show_zodiac_sign.php: Script que processa a data inserida e exibe o signo correspondente.
 
-: Página inicial com o formulário para entrada da data de nascimento.
+-signos.xml: Arquivo XML contendo os dados dos signos.
 
--
+-header.php: Arquivo de cabeçalho com as importações de estilos.
 
-show_zodiac_sign.php
-
-: Script que processa a data inserida e exibe o signo correspondente.
-
--
-
-signos.xml
-
-: Arquivo XML contendo os dados dos signos.
-
--
-
-header.php
-
-: Arquivo de cabeçalho com as importações de estilos.
-
--
-
-style.css
-
-: Arquivo CSS com estilos personalizados.
+-style.css: Arquivo CSS com estilos personalizados.
 
 ## Como Executar
 
